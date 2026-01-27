@@ -362,7 +362,7 @@ git push origin feature/amazing-feature
 
 ## 📝 الترخيص
 
-هذا المشروع مرخص تحت [Abdallah Hany](LICENSE)
+هذا المشروع مرخص تحت [abdallah244](LICENSE)
 
 ---
 
