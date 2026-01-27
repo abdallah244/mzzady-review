@@ -367,7 +367,7 @@ git push origin feature/amazing-feature
 ---
 
 <p align="center">
-  <strong>صُنع بـ ❤️ في مصر 🇪🇬</strong>
+  <strong>صُنع بـ abdallah hany في مصر 🇪🇬</strong>
 </p>
 
 <p align="center">
