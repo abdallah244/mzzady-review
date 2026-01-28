@@ -377,12 +377,12 @@ git push origin feature/amazing-feature
 
 ## 📝 الترخيص
 
-هذا المشروع مرخص تحت [MIT License](LICENSE)
+هذا المشروع مرخص تحت [Abdllah hanyh](LICENSE)
 
 ---
 
 <p align="center">
-  <strong>صُنع بـ ❤️ في مصر 🇪🇬</strong>
+  <strong>صُنع بـ abdallah hany في مصر 🇪🇬</strong>
 </p>
 
 <p align="center">
